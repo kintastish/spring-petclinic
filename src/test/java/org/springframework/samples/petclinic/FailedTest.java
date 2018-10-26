@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class FailedTest {
     @Test
-//    @Ignore
+    @Ignore
     public void alwaysFail() {
         throw new RuntimeException("Fail");
     }

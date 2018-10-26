@@ -1,7 +1,7 @@
 package org.springframework.samples.petclinic;
 
+import org.junit.Ignore;
 import org.junit.Test;
-import org.junit.runner.RunWith;
 
 public class FailedTest {
     @Test
